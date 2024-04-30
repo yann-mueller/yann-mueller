@@ -9,7 +9,7 @@
 <li>Extrapolation in Betting Behavior</li>
 </ul>
 </li>
-<li>Latin-America aficionado - please find my website <a href="https://www.daily-cuba.com" target="_blank" rel="noopener noreferrer">Daily-Cuba</a>🌞 (German only)</li>
+<li>Latin-America aficionado - please find my website <a href="http://www.daily-cuba.com" target="_blank" rel="noopener noreferrer">Daily-Cuba</a>🌞 (German only)</li>
 </ul>
 <p>For more information, please visit my <a href="https://www.yannmueller.de" target="_blank" rel="noopener noreferrer">personal website</a>.</p>
 ---
