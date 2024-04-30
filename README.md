@@ -2,7 +2,7 @@
 <p>I'm a Ph.D. candidate in Economics at the University of Mannheim, Germany, and curious about Data.</p>
 <ul>
 <li><strong><u>Research Interests:</u></strong> Causal Identification and Spatial Economics</li>
-<li><strong><u>Projects</u></strong>
+<li><strong><u>(Non-)Academic Projects:</u></strong>
 <ul>
 <li><a href="https://github.com/yann-mueller/waterway_shocks" target="_blank" rel="noopener noreferrer">Quantifying Waterway Supply Chain Shocks</a></li>
 <li><a href="https://github.com/yann-mueller/oases_market_potential">Oases and the Causal Effect of Domestic Market Potential</a></li>
