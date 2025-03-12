@@ -4,7 +4,7 @@
 <li><strong><u>Research Interests:</u></strong> Supply Chains, Causal Inference, Data Science</li>
 <li><strong><u>Code Repositories:</u></strong>
 <ul>
-<li>Web Scraping Moroccan Census Data</li>
+<li><a href="https://github.com/yann-mueller/webscraping_census" target="_blank" rel="noopener noreferrer">Web Scraping Moroccan Census Data</a></li>
 <li>Extrapolation in Betting Markets</li>
 </ul>
 <li><strong><u>Academic Projects:</u></strong>
