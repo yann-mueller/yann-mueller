@@ -14,7 +14,7 @@
 <ul>
 <li><a href="https://github.com/yann-mueller/waterway_shocks" target="_blank" rel="noopener noreferrer">Quantifying Waterway Supply Chain Shocks</a></li>
 <li><a href="https://github.com/yann-mueller/oases_market_potential">Oases and the Causal Effect of Domestic Market Potential</a></li>
-<li>Extrapolation in Betting Behavior</li>
+<li>News about the Future Supply Chain Environment [in progress]</li>
 </ul>
 </li>
 <li>Latin-America aficionado - please find my website <a href="http://www.daily-cuba.com" target="_blank" rel="noopener noreferrer">Daily-Cuba</a>🌞 (German only)</li>
