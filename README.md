@@ -4,6 +4,7 @@
 <li><strong><u>Research Interests:</u></strong> Supply Chains, Causal Inference, Data Science</li>
 <li><strong><u>Code Repositories:</u></strong>
 <ul>
+<li>Neural Networks: Waterway Transportation Capacity Prediction [Python, tbd]</li>
 <li><a href="https://github.com/yann-mueller/gradient_boosting" target="_blank" rel="noopener noreferrer">Gradient Boosting: Spatial Predictions with Geodata [R]</a></li>
 <li><a href="https://github.com/yann-mueller/dynamic_programming" target="_blank" rel="noopener noreferrer">Mathematical Optimization: Dynamic Programming [Python]</a></li>
 <li><a href="https://github.com/yann-mueller/time_series_local_projections" target="_blank" rel="noopener noreferrer">Time Series: Local Projections [Matlab]</a></li>
