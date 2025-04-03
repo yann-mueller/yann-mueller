@@ -5,9 +5,9 @@
 <li><strong><u>Code Repositories:</u></strong>
 <ul>
 <li>Neural Networks: Waterway Transportation Capacity Prediction [Python, tbd]</li>
+<li><a href="https://github.com/yann-mueller/gradient_boosting" target="_blank" rel="noopener noreferrer">Gradient Boosting: Spatial Predictions with Geodata [R]</a></li>
 <li><a href="https://github.com/yann-mueller/dynamic_programming" target="_blank" rel="noopener noreferrer">Mathematical Optimization: Dynamic Programming [Python]</a></li>
 <li><a href="https://github.com/yann-mueller/time_series_local_projections" target="_blank" rel="noopener noreferrer">Time Series: Local Projections [Matlab]</a></li>
-<li><a href="https://github.com/yann-mueller/gradient_boosting" target="_blank" rel="noopener noreferrer">Gradient Boosting: Spatial Predictions with Geodata [R]</a></li>
 <li><a href="https://github.com/yann-mueller/webscraping_census" target="_blank" rel="noopener noreferrer">Web Scraping Moroccan Census Data [Python]</a></li>
 <li><a href="https://github.com/yann-mueller/mdb_2_sqlite" target="_blank" rel="noopener noreferrer">Convert .mdb-files into .sqlite-files [Python]</a></li>
 </ul>
