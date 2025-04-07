@@ -13,7 +13,7 @@
 </ul>
 <li><strong><u>Academic Projects:</u></strong>
 <ul>
-<li><a href="https://github.com/yann-mueller/waterway_shocks" target="_blank" rel="noopener noreferrer">Quantifying Waterway Supply Chain Shocks</a></li>
+<li><a href="https://github.com/yann-mueller/waterway_shocks" target="_blank" rel="noopener noreferrer">Quantifying Regional Supply Chain Shocks: Waterways and Propagation</a></li>
 <li><a href="https://github.com/yann-mueller/oases_market_potential">The Causal Effect of Domestic Market Potential</a></li>
 <li>News about the Future Supply Chain Environment [in progress]</li>
 </ul>
