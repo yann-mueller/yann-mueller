@@ -1,7 +1,10 @@
 <h4>👨🏻&zwj;💻About Me:</h4>
-<p>I'm a Ph.D. candidate in Economics at the University of Mannheim, Germany, and curious about Data.</p>
+<p>I'm a Data Scientist at the AXA Data Innovation Lab.
+    
+Previously, I received my PhD in Economics from the University of Mannheim.</p>
 <ul>
-<li><strong><u>Research Interests:</u></strong> Supply Chains, Causal Inference, Data Science</li>
+<li><strong><u>Interests:</u></strong> Causal Inference, Data Science</li>
+<li><strong><u>New projects:</u></strong> Sport Analytics (Repo soon) and Autonomous UAV (Repo soon)</li>
 <li><strong><u>Code Repositories:</u></strong>
 <ul>
 <li>Neural Networks: Waterway Transportation Capacity Prediction [Python, tbd]</li>
